@@ -1,4 +1,5 @@
 v1.0.9
+
 - Corrección de errores.
 - Optimización del Diseño del programa.
 - Se agrego un componente de ayuda abajo del programa con distintos tips del programa.
@@ -9,4 +10,11 @@ v1.0.9
 
 
 v1.0.8
+
 - Optimización del programa
+- Corrección de errores.
+
+v1.0.7
+
+- Se soluciono un problema que impedía que el programa funcionase correctamente según la Geolocalización del sistema.
+
