@@ -1,3 +1,7 @@
+v1.1.0
+- Corrección de errores menores.
+- Optimización para que se pueda abrir el programa en caso de no tener conexión a Internet.
+
 v1.0.9
 
 - Corrección de errores.
