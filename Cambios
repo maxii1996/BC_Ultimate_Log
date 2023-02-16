@@ -1,3 +1,7 @@
+v1.1.1
+- Se agregó el sistema de Selección directa de productos (beta)
+- Corrección de errores menores.
+
 v1.1.0
 - Corrección de errores menores.
 - Optimización para que se pueda abrir el programa en caso de no tener conexión a Internet.
